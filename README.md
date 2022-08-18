@@ -11,3 +11,6 @@ I will use one main and testing branch per project. More branches, branching fro
 
 # The use .gitignore
 The .gitignore is used when you dont want to commit a file to the repository. I will ignore all temparary and sensitve files. 
+
+# The storage of sensitive information and credentials
+Sensitive information will be encrypted and not posted to the repository.
