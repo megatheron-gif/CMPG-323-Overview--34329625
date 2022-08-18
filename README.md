@@ -8,3 +8,6 @@
 
 # Branching strategy:	
 I will use one main and testing branch per project. More branches, branching from testing, may be used depending on the task being performed. Code will be merged from these branches into the testing branch. Most coding will be done in the testing branch. When I am satisfied with what I have coded I will merge the testing branch with the main branch. The main branch would then be duplicated into a new version branch, branching from main, to create backups of code.
+
+# The use .gitignore
+The .gitignore is used when you dont want to commit a file to the repository. I will ignore all temparary and sensitve files. 
